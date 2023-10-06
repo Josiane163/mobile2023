@@ -34,4 +34,4 @@ This project is [MIT](./MIT.md) licensed.
 =======
 👤 **josi**
 
-- GitHub: [@karam084](https://github.com/karam084/portfolio-mobile-version)
+- GitHub: [@restaurante da josi](https://github.com/karam084/portfolio-mobile-version)
