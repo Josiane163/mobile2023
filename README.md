@@ -29,7 +29,7 @@ Este Projeto de Portfólio foi construído usando templates!!!!
 
 ## 📝 License
 
-This project is [MIT](./MIT.md) licensed.
+Esse projeto é [MIT](./MIT.md) licensed.
 
 
 👤 **josi**
