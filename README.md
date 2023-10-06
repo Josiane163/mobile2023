@@ -18,7 +18,7 @@ This is the personal Portfolio Web site, and this project works properly on the 
 - CSS
 - Git & GitHub
 
-👤 **Karam Fouad**
+👤 **Josiane**
 
 - GitHub: [@restaurantedajosi](https://github.com/karam084)
 - Twitter: [@restaurantedajosi](https://twitter.com/ElarabFouad)
