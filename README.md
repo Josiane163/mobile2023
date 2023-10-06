@@ -31,7 +31,7 @@ This Portfolio Project was build using Figma templates under continuous supervis
 
 This project is [MIT](./MIT.md) licensed.
 
-=======
+
 👤 **josi**
 
 - GitHub: [@restaurante da josi](https://github.com/karam084/portfolio-mobile-version)
