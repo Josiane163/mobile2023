@@ -24,7 +24,7 @@ This is the personal Portfolio Web site, and this project works properly on the 
 - Twitter: [@restaurantedajosi](https://twitter.com/ElarabFouad)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/karam-fouad-179830214/)
 
-## Acknowledgments
+## Agradecimentos 
 This Portfolio Project was build using Figma templates under continuous supervision of Microverse team!!
 
 ## 📝 License
