@@ -20,8 +20,8 @@ This is the personal Portfolio Web site, and this project works properly on the 
 
 👤 **Karam Fouad**
 
-- GitHub: [@karam084](https://github.com/karam084)
-- Twitter: [@ElarabFouad](https://twitter.com/ElarabFouad)
+- GitHub: [@restaurantedajosi](https://github.com/karam084)
+- Twitter: [@restaurantedajosi](https://twitter.com/ElarabFouad)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/karam-fouad-179830214/)
 
 ## Acknowledgments
